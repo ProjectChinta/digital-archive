@@ -650,6 +650,7 @@ header.shadow .admin-btn .bx{
     color: #fff;
     font-size: 1.2rem;
     font-family: 'Poppins Light';
+    margin-top: 5rem !important;
 }
 .post-text{
     font-size: .5rem;
